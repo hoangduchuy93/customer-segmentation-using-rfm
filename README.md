@@ -47,7 +47,7 @@ You can connect to the demo app (https://hoangduchuy93-customer-segmentation-usi
 #### 4.1. EDA and processing
 - Upload OnlineRetail.csv from your local path (click on the box "Browse file" on the left).
 - By default, you will access to "View EDA & Processing", with country United Kingdom. You can change to another country for your reference. 
-- In this part, you can see some information about transaction made by that country (in this case is UK), RFM segmentation for UK and visulization for RFM
+- In this part, you can see some information about transaction made by that country (in this case is UK), RFM segmentation for UK and visualization for RFM
 - Some photos for this function as below:
 ![image](https://user-images.githubusercontent.com/91864024/178682454-394c99dd-98e0-47ba-bc34-6f721d9f419d.png)
 ![image](https://user-images.githubusercontent.com/91864024/178682650-02c9d473-bec2-4e9e-9886-6b075abef1eb.png)
